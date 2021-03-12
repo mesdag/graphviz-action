@@ -1,0 +1,5 @@
+---
+repository:
+  description: A GitHub action to generate a PNG out of your Ansible roles requirements.yml.
+  homepage: https://mesd.ag/
+  topics: github, action, ansible, graphviz

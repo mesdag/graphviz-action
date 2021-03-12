@@ -1,0 +1,11 @@
+name: Generate png from Ansible requirement.yml
+description: Generate png from Ansible requirement.yml
+author: Uco Mesdag <uco@mesd.ag>
+
+runs:
+  using: docker
+  image: 'docker://quay.io/ucomesdag/github-action-graphviz:latest'
+
+branding:
+  icon: loader
+  color: green
